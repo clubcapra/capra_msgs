@@ -31,6 +31,8 @@ find_package(catkin REQUIRED COMPONENTS roscpp rospy std_msgs message_generation
 add_service_files(
    FILES
    SetWheelSpeed.srv
+   ToggleLight.srv
+   ResetPosition.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
