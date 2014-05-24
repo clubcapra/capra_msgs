@@ -33,6 +33,7 @@ add_service_files(
    SetWheelSpeed.srv
    ToggleLight.srv
    ResetPosition.srv
+   ModuleToggle.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
