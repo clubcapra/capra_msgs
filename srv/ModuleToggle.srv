@@ -1,0 +1,17 @@
+uint8 Fan = 0
+uint8 IMU = 1
+uint8 Camera = 2
+uint8 GPS = 3
+uint8 Switch = 4
+uint8 Lights = 5
+uint8 RangeFinder = 6
+uint8 Tension = 7
+uint8 Current = 8
+uint8 Temperature = 9
+uint8 EstopManual = 10
+uint8 EstopRemote = 11
+uint8 Mode = 12
+
+uint8 Module
+bool on
+---
