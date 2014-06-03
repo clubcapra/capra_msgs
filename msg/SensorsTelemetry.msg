@@ -13,4 +13,4 @@ float32 Temperature
 bool EstopManual
 bool EstopRemote
 
-uint8 Mode
+string Mode
