@@ -25,6 +25,7 @@ find_package(catkin REQUIRED COMPONENTS roscpp rospy std_msgs message_generation
    FILES
    AiStatus.msg
    EStopStatus.msg
+   SensorsTelemetry.msg
  )
 
 ## Generate services in the 'srv' folder
