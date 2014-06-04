@@ -35,6 +35,11 @@ add_service_files(
    ResetPosition.srv
    ModuleToggle.srv
    AddGoal.srv
+   CollectHardIronFieldCalibrationData.srv
+   ComputeHardIronFieldCalibration.srv
+   InitializeHardIronFieldCalibration.srv
+   StartAcquisition.srv
+   StopAcquisition.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
